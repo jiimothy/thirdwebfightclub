@@ -32,12 +32,6 @@ The only other two things I want to put in at this point is starting a todo list
 
 **people to contact:**
 
-|    who        |    why                   |   done   |
-|---------------|--------------------------|----------|
-| hunt the moon | screen printing t-shirts |- [ ]     |
-
-
-
 - [ ] hunt the moon
 
 - [ ] common objective
