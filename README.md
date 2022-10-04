@@ -1,39 +1,50 @@
 # **thirdwebfightclub**
 
-This is about getting my intention for this project down in black and white in its most simple terms.
+This is about setting intention for a project in super minimal but public terms.
 
-The aim is to start an open source design and marketing collective that is successful financially and with more important metrics.
+**The aim is to start a successful open source design and marketing collective.**
 
-It's purpose is to address this problem:
+It's purpose is to address this oversized problem (at least in part):
 
 ---
 ### **whats the point doing anything environmentally or politically? it seems impossible to make a difference**
 ---
-#### The objectives I have in mind are currently quite personal although there's even more personal objectives in my profile README:
-1. I approach this project like putting together a band.
-2. Make flyers and other marketing goods and products, t-shirts, posters and business cards in gimp.
-3. Find the community I want to work with.
-4. Beat catitalism
-5. Ask for help.
-6. Have fun.
-7. Get all punk with it :fire: :fire: :fire: 
+#### The objectives I have in mind:
+1. Approach this project like putting together a band.
+2. Get all creative with gimp, make, give away or sell t-shirts, posters, cards, flyers and any other marketing goods I think would look cool.
+3. Do a website/github page and make it look really nice.
+4. Find the community I want to work with.
+5. Beat capitalism on a micro level and support other people to do it too.
+6. Ask for help alot.
+7. Have fun.
+8. Get all punk with it.
+9. Create a brand a brand unlike any other (in a good way).
 
 ---
 
-The only other two things I want to put in at this point is starting a todo list of next steps and people who I want to contact and why I'm reaching out.
+The only other things I want to put in at this point is starting a todo list of next steps and people who I want to contact, their background and why?
 
-**todos:**
+---
+**TODO'S**
 
-- [x] do a basic write up of the projext
+- [x] do a minimal, basic write up of the project
 
-- [ ] write a list of people to contact
+- [ ] write a list of 10 people/organisations to contact
 
-- [ ] re-write the basic write up...
+- [ ] re-write the write up... expand, more details.
 
-**people to contact:**
+- [ ] do a presentation - proto brand designs.
 
-- [ ] hunt the moon
+---
+**CONTACT WHO?**
 
-- [ ] common objective
+- [ ] hunt the moon - help with t-shirts etc
 
-- [ ] caravan coffee
+- [ ] common objective - more of the same.
+
+- [ ] caravan coffee - I got this idea...
+
+- [ ] spacemesh - I like your emails.
+
+- [ ] Pimoroni - The coolest. 
+
